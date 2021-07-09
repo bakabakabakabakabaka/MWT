@@ -5,6 +5,7 @@ Tools for windows. <br/>These tools can help you fix issues and crap that I have
 ### Note:
 Most of these you can make yourself, or change registry files yourself.
 
+# The tools and what they do
 
 ## Bypass Win 11 (BW11)
 Bypasses the TPM and the Secure Boot check. *This is old, there is now a way to bypass the RAM check as well.*
@@ -22,3 +23,8 @@ Useful if you want to enroll into the Insider program without a MS account. <br/
 **You can also use registry tweaks to manually enroll.** <br/>
 The registry way: https://winaero.com/how-to-enable-windows-11-dev-channel-on-unsupported-device/ <br/>
 OfflineInsiderEnroll: https://github.com/abbodi1406/offlineinsiderenroll
+
+# How to use them
+Simply double-click the batch file you want to run. It will always ask for admin. Follow the instructions in the batch file. <br/>
+*Certain batch files may ask you to reboot. Make sure to reboot to apply registry changes.* <br/>
+You can reboot later by pressing the control key and C.
