@@ -1,5 +1,6 @@
 # MWT
 Tools for windows. <br/>These tools can help you fix issues and crap that I have experienced using windows 10/11. <br/>
+*Please don't run these if you don't know what your doing.*
 
 
 ### Note:
