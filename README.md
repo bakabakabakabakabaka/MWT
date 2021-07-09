@@ -25,6 +25,6 @@ The registry way: https://winaero.com/how-to-enable-windows-11-dev-channel-on-un
 OfflineInsiderEnroll: https://github.com/abbodi1406/offlineinsiderenroll
 
 # How to use them
-Simply double-click the batch file you want to run. It will always ask for admin. Follow the instructions in the batch file. <br/>
+Clone this repo, and simply double-click the batch file you want to run. It will always ask for admin. Follow the instructions in the batch file. <br/>
 *Certain batch files may ask you to reboot. Make sure to reboot to apply registry changes.* <br/>
 You can reboot later by pressing the control key and C.
